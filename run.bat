@@ -1,4 +1,4 @@
-type Script.lua > Ironbrew/netcoreapp2.0/input.txt
+type Script.lua > Script.lua
 cd Script.lua
 dotnet "IronBrew2 CLI.dll" "input.txt"
 cd ../..
